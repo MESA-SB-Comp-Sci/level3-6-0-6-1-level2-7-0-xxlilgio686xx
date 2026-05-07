@@ -1,7 +1,37 @@
-*{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+.box{
+background-color:yellow;
+    height:85;
+    margin: 15;
+    border-color:pink;
+    
+}
+.p1{
+color:blue;
+margin:0;
+padding-top:21;
 }
 
-/* write all your rules below */
+.p2{
+color:green; 
+margin:0;
+}
+
+.p3{
+color: purple;
+margin:0;    
+}
+
+.box1{
+padding:100;
+background-color:cyan;
+}
+
+.heading{
+background-color: pink;
+border-color: red;
+margin:28;
+}
+
+.align{
+flex-direction:column;
+}
